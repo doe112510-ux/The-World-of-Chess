@@ -1,0 +1,31 @@
+CHS Chess:
+---------
+<p>
+Cranford High School Chess club is back for another year. The Chess Club has regular meetings every Thursday after school from 3:00 pm to 4:00 pm. The sessions are casual fun and can just be friends playing chess together. However, if you want something more competitive, than you can pay $25 to become an official member. This lets you play in the tournamets, go to team pizza parties, and get some chess merch.
+</p>
+
+Famous players:
+--------------
+<h1> Famous Players</h1>
+
+<p>
+Since chess is such a popular sport, the best player become internationaly famous. These chess players play in international tournaments like the Chess Olympiad, a biennial team competition that features 180 countries. The most accomplished chess players earn the title of Chess grandmaster. Some examples of people who have acheived this are Magnus Carlsen, Arjun Erigaisi, Wei Yi, Wesley So, etc. They are recognized as some of the best players in the world, and they earned their titles by playing for 8 to 10 years, preform exceptionally well at an FIDE tournament and earn a FIDE score of at least 2500.
+
+index.html:
+----------
+<h1>The World of Chess</h1>
+
+<body style="background-color:#0000FF">
+<p>
+Chess is one of the oldest and most popular games in the world. Created in the 6th century, it has become an international sport, the best players have become millionaires, and is played by people of all ages.
+</p>
+<img title="chess" width="400px" src="https://chessbazaar.gumlet.io/media/catalog/product/cache/c249699911720c504823772501a8e5ee/r/i/ridle_series_chess_pieces_in_ebony_2_.jpg">
+
+<p>
+https://github.com/doe112510-ux/The-World-of-Chess
+</p>
+
+style.css:
+---------
+
+

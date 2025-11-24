@@ -15,17 +15,10 @@ index.html:
 ----------
 <h1>The World of Chess</h1>
 
-<body style="background-color:#0000FF">
 <p>
 Chess is one of the oldest and most popular games in the world. Created in the 6th century, it has become an international sport, the best players have become millionaires, and is played by people of all ages.
 </p>
 <img title="chess" width="400px" src="https://chessbazaar.gumlet.io/media/catalog/product/cache/c249699911720c504823772501a8e5ee/r/i/ridle_series_chess_pieces_in_ebony_2_.jpg">
 
-<p>
-https://github.com/doe112510-ux/The-World-of-Chess
-</p>
-
-style.css:
----------
 
 

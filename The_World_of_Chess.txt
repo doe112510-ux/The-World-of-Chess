@@ -10,6 +10,7 @@ Famous players:
 
 <p>
 Since chess is such a popular sport, the best player become internationaly famous. These chess players play in international tournaments like the Chess Olympiad, a biennial team competition that features 180 countries. The most accomplished chess players earn the title of Chess grandmaster. Some examples of people who have acheived this are Magnus Carlsen, Arjun Erigaisi, Wei Yi, Wesley So, etc. They are recognized as some of the best players in the world, and they earned their titles by playing for 8 to 10 years, preform exceptionally well at an FIDE tournament and earn a FIDE score of at least 2500.
+<img title="magnus carlsen" width="250px" src="https://images.chesscomfiles.com/uploads/v1/master_player/3b0ddf4e-bd82-11e8-9421-af517c2ebfed.f2dc9e34.250x250o.5ede81456fe8.png">
 
 index.html:
 ----------

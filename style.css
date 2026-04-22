@@ -3,5 +3,8 @@ body {
 }
 h1 {
     color: navy;
-    margin-right: 80px;
+   
+}
+div {
+     margin-right: 80px;
 }

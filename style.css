@@ -1,22 +1,76 @@
-body {
-    background-color: rgb(81, 204, 128);
+/* ===== NAVBAR ===== */
+
+.custom-navbar {
+    background: rgba(20, 20, 20, 0.95);
+    backdrop-filter: blur(10px);
+
+    padding: 14px 0;
+
+    box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+
+    transition: all 0.3s ease;
 }
-h1 {
-    color: black;
-   
+
+/* Brand */
+.navbar-brand {
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+
+    transition: transform 0.3s ease;
 }
-div {
-     margin-left: 15px;
+
+.navbar-brand:hover {
+    transform: scale(1.05);
 }
-h2 {
-    color: black;
+
+/* Navbar Links */
+.nav-link {
+    color: white !important;
+
+    font-size: 1.05rem;
+
+    margin-left: 18px;
+
+    position: relative;
+
+    transition:
+        color 0.3s ease,
+        transform 0.3s ease;
 }
-.chess img {
-    box-shadow: 0px 4px 15px rgba(0,0,0,0.3);
-    border-radius: 12px;
-    transition: transform 0.3s ease
+
+/* Hover Animation */
+.nav-link:hover {
+    color: #d4af37 !important;
+
+    transform: translateY(-2px);
 }
-.chess-img:hover {
-    transform: scale(1.03);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.35);
+
+/* Animated Underline */
+.nav-link::after {
+    content: "";
+
+    position: absolute;
+
+    left: 0;
+    bottom: -4px;
+
+    width: 0%;
+    height: 2px;
+
+    background-color: #d4af37;
+
+    transition: width 0.3s ease;
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+/* Mobile Navbar */
+.navbar-toggler {
+    border: none;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
 }

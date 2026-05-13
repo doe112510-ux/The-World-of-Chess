@@ -65,6 +65,9 @@ body {
 .main-content {
     padding: 50px 20px;
 }
+div {
+     margin-left: 15px;
+}
 .chess-img:hover {
     transform: scale(1.03);
     box-shadow: 0 10px 20px rgba(0,0,0,0.35)

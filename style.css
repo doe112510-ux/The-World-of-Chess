@@ -100,3 +100,13 @@ div {
     font-size: 1.3rem;
     margin: 20px 0;
 }
+
+.hero-title,
+.navbar-brand,
+.hero-overlay h1 {
+    font-family: 'Cinzel', serif;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}

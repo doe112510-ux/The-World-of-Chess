@@ -110,3 +110,8 @@ div {
 body {
     font-family: 'Roboto', sans-serif;
 }
+.hero-overlay h1,
+.navbar-brand,
+.section-title {
+    font-family: 'Cinzel', serif;
+}

@@ -115,3 +115,8 @@ body {
 .section-title {
     font-family: 'Cinzel', serif;
 }
+p {
+    max-width: 1000px;
+    margin: 0 auto 20px auto;
+    line-height: 1.8;
+}

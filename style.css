@@ -120,3 +120,103 @@ p {
     margin: 0 auto 20px auto;
     line-height: 1.8;
 }
+
+body {
+    background-color: #1b1b1b;
+    color: #f5f5f5;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Navbar */
+.navbar {
+    border-bottom: 2px solid #c9a66b;
+}
+
+.navbar-brand {
+    color: #c9a66b !important;
+    font-size: 1.7rem;
+}
+
+.nav-link {
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: #c9a66b !important;
+}
+
+/* Hero Section */
+.hero-section {
+    background-image: url('https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkX0Q7F.png');
+
+    background-size: cover;
+    background-position: center;
+
+    height: 60vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-overlay {
+    background-color: rgba(0,0,0,0.7);
+
+    padding: 40px;
+
+    border-radius: 20px;
+
+    text-align: center;
+}
+
+.hero-overlay h1 {
+    font-size: 4rem;
+    color: #c9a66b;
+}
+
+.hero-overlay p {
+    font-size: 1.3rem;
+}
+
+/* Main Content */
+.main-content {
+    padding: 60px 20px;
+}
+
+/* Section Titles */
+.section-title {
+    color: #c9a66b;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+/* Piece Cards */
+.piece-card {
+    background-color: #242424;
+
+    border-radius: 20px;
+
+    padding: 30px;
+
+    margin-bottom: 40px;
+
+    box-shadow: 0px 5px 20px rgba(0,0,0,0.5);
+}
+
+/* Images */
+.piece-img {
+    border-radius: 15px;
+
+    box-shadow: 0px 5px 20px rgba(0,0,0,0.5);
+
+    transition: transform 0.3s;
+}
+
+.piece-img:hover {
+    transform: scale(1.03);
+}
+
+/* Paragraphs */
+p {
+    line-height: 1.8;
+}
